@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stock-api.github.io/static/css/main.afb31bb6.css",
+    "main.js": "/stock-api.github.io/static/js/main.83fdece6.js",
+    "static/js/592.a89d36f6.chunk.js": "/stock-api.github.io/static/js/592.a89d36f6.chunk.js",
+    "index.html": "/stock-api.github.io/index.html",
+    "main.afb31bb6.css.map": "/stock-api.github.io/static/css/main.afb31bb6.css.map",
+    "main.83fdece6.js.map": "/stock-api.github.io/static/js/main.83fdece6.js.map",
+    "592.a89d36f6.chunk.js.map": "/stock-api.github.io/static/js/592.a89d36f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afb31bb6.css",
+    "static/js/main.83fdece6.js"
+  ]
+}
